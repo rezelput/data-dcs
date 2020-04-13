@@ -56,4 +56,4 @@ public:
  
   Item * First(void) const;   
  
-#endif    // finish #ifndef at top
+#endif
